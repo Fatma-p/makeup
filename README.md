@@ -45,4 +45,4 @@ makeup/
 ├── script.js
 │
 └── image/
-    └── Product images
+    └──  iim
